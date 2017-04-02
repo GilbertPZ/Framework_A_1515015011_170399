@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Gilbert Pranajaya Z</div>
+                <div class="title">Gilbert Pranajaya Zhefrynski</div>
                 <div class="title">1515015011</div>
             </div>
         </div>

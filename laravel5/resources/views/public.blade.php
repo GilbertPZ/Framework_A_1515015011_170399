@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Nama : Gilbert Pranajaya Zhefrynski</div>
+                <div class="title">Nama : Gilbert Pranajaya Z</div>
                 <div class="title">NIM  : 1515015011</div>
             </div>
         </div>
